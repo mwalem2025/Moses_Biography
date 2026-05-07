@@ -17,8 +17,8 @@ I'm a detail-oriented **Supply Chain Data Analyst** with over 30 years of experi
 - 🎓 MCIPS Certified (Chartered Institute of Procurement & Supply)
 - 🧠 Strong background in supply chain operations and analytics
 - 🛠 ERP user with hands-on SAP S/4HANA Materials Management
-- 🛠 Integrated and worked alongside third-party plugins such as EazyStock (Inventory Optimization plugin)
-- 🛠 Served as Customer Success Manager at EazyStock, collaborating with ERP/MRP platforms such as Sage, Microsoft Dynamics, Merlin, and NetSuite.
+- 🛠 Collaborated with third-party plugins, including EazyStock (inventory optimization plugin).
+- 🛠 Gained hands-on experience with ERP platforms such as Sage, Microsoft Dynamics, Merlin, and NetSuite 
 
   
 📚 **Certifications & Education**
