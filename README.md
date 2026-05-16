@@ -24,7 +24,8 @@ I'm a detail-oriented **Supply Chain Data Analyst** with over 30 years of experi
 📚 **Certifications & Education**
 
 - 📘 Ongoing learning in Python, Power BI, and SAP S4/HANA Data Migration
-- 📘 Aspiring for a  PhD researcher focused on ERP systems in Africa
+- 📘 Studyng for SAP S4 HANA Certification
+- 
 
 ---
 
